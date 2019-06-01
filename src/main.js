@@ -10,6 +10,8 @@ import 'styles/border.css'
 import 'styles/iconfont.css'
 import Router from 'vue-router'
 
+
+
 Vue.config.productionTip = false
 fastClick.attach(document.body)
 Vue.use(Router)
